@@ -4,3 +4,9 @@ matplotlib
 seaborn
 joblib 
 streamlit
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+xgboost
